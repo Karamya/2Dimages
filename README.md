@@ -13,5 +13,6 @@ Tips:
 Example of the plot
 ![Screenshot](p08_128_GST_Si111_00370-419a.png)
 ![Screenshot](p08_128_GST_Si111_00370-419.png)
+
 Example of a double peak fit
 ![screenshot](p08_146_GST-Si111_00260-00041.png)
