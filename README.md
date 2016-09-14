@@ -9,8 +9,9 @@ To read 2 Dimensional Perkin Elmer images and analyse the data
 
 Tips:
   In case of single peaks or very weak double peak, please go for single peak fitting option to speed up the processing/execution time
-Example of a double peak fit
-![screenshot](p08_146_GST-Si111_00260-00041.png)
+
 Example of the plot
 ![Screenshot](p08_128_GST_Si111_00370-419a.png)
 ![Screenshot](p08_128_GST_Si111_00370-419.png)
+Example of a double peak fit
+![screenshot](p08_146_GST-Si111_00260-00041.png)
