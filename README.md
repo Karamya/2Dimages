@@ -11,3 +11,4 @@ Tips:
   In case of single peaks or very weak double peak, please go for single peak fitting option to speed up the processing/execution time
   
 Example of the plot
+![Screenshot](p08_128_GST_Si111_00370-419.png)
